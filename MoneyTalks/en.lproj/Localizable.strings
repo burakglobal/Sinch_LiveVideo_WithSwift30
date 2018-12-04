@@ -1,0 +1,5 @@
+SIN_INCOMING_CALL = "Incoming video call";
+SIN_INCOMING_CALL_DISPLAY_NAME = "Incoming video call from %@";
+SIN_INCOMING_VIDEO_CALL = "Incoming video call";
+SIN_INCOMING_VIDEO_CALL_DISPLAY_NAME = "Incoming video call from %@";
+sound = "ping.aiff";

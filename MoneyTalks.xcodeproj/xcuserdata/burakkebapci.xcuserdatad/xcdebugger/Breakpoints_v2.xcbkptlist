@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slideout/MenuViewController.swift"
+            timestampString = "512525688.272969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "MenuViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.__deallocating_deinit"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.852132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.init (style : __C.UITableViewStyle) -&gt; slideout.MenuViewController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.854225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; slideout.MenuViewController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.856556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; slideout.MenuViewController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.859605"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; slideout.MenuViewController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.861908"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;slideout.MenuViewController&gt;"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.864371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MenuViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;slideout.MenuViewController&gt;"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MenuViewController.swift"
+                  timestampString = "510286228.866895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slideout/MenuViewController.swift"
+            timestampString = "514649244.649272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slideout/MainNavigationController.swift"
+            timestampString = "511923908.462934"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "MainNavigationController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.__deallocating_deinit"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.513209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.init (navigationBarClass : Swift.Optional&lt;Swift.AnyObject.Type&gt;, toolbarClass : Swift.Optional&lt;Swift.AnyObject.Type&gt;) -&gt; slideout.MainNavigationController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.515298"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.__allocating_init (navigationBarClass : Swift.Optional&lt;Swift.AnyObject.Type&gt;, toolbarClass : Swift.Optional&lt;Swift.AnyObject.Type&gt;) -&gt; slideout.MainNavigationController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.517126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.init (rootViewController : __ObjC.UIViewController) -&gt; slideout.MainNavigationController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.518925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.__allocating_init (rootViewController : __ObjC.UIViewController) -&gt; slideout.MainNavigationController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.520719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; slideout.MainNavigationController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.522501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; slideout.MainNavigationController"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.524292"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;slideout.MainNavigationController&gt;"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.52608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;slideout.MainNavigationController&gt;"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510284172.527861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slideout/MainNavigationController.swift"
+            timestampString = "512694486.550084"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "addObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "slideout/MainNavigationController.swift"
+            timestampString = "512694486.550084"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "addObservers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.(addObservers in _5A88C93FFCA2C1160D88C55ECF5A483F) () -&gt; ()"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510285501.017957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2583">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "slideout.MainNavigationController.((addObservers in _5A88C93FFCA2C1160D88C55ECF5A483F) () -&gt; ()).(closure #4)"
+                  moduleName = "slideout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/NEVERBLIND/slideout/MainNavigationController.swift"
+                  timestampString = "510285501.020596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
